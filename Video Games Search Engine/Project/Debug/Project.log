@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lap-545\desktop\project\project\source.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\lap-545\desktop\project\project\source.cpp(404): warning C4715: 'GameTree::search': not all control paths return a value
+  Project.vcxproj -> C:\Users\lap-545\Desktop\Project\Debug\Project.exe
